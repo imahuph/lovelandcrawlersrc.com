@@ -9,14 +9,14 @@ body {
 }
 
 .header-image {
-    display: block;
+    padding-bottom: 200px;
     width: 100%;
     text-align: center;
-    background: url('/img/crawlersticker1.jpg') no-repeat center center scroll;
-    -webkit-background-size: cover;
+    background: url('/img/crawlersticker1.jpg');
+   <!-- -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover;
+    -o-background-size: cover; -->
 }
 
 .headline {
