@@ -9,14 +9,17 @@ body {
 }
 
 .header-image {
-    padding-bottom: 200px;
-    width: 100%;
+    display: block;
+    padding-top: 150px;
+    padding-left: 100px;
+    margin-left: 220px;
+    width: 80%;
     text-align: center;
-    background: url('/img/logo1.jpg');
-   <!-- -webkit-background-size: cover;
+    background: url('/img/logo1.jpg') no-repeat center center scroll;
+    -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    -o-background-size: cover; -->
+    -o-background-size: cover;
 }
 
 .headline {
